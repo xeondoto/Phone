@@ -37,8 +37,8 @@ public class Phone {
     }
 
     public static void main(String[] args) {
-        Phone phone1 = new Phone("89111111111", "Apple", 3.2);
-        Phone phone2 = new Phone("89112111112", "Samsung");
+        Phone phone1 = new Phone("8904234251", "Apple", 3.2);
+        Phone phone2 = new Phone("89314121234", "Samsung");
         Phone phone3 = new Phone();
 
 
